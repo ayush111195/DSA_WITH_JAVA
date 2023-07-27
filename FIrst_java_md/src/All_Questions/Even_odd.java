@@ -8,7 +8,7 @@ public class Even_odd {
 
         Scanner sc=new Scanner(System.in);
        int n= sc.nextInt();
-        String resullt=evenorodd(n);
+        String resullt= evenorodd(n);
         System.out.println(resullt);
     }
 
